@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>io.github.Sude.lgogdownloader</id>
+  <name>LGOGDownloader</name>
+  <summary>Manage your GOG Games</summary>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>WTFPL v2</project_license>
+  <description>
+    <p>
+      LGOGDownloader is open source downloader to <a href="https://www.gog.com/">GOG.com</a>
+      for Linux users using the same API as the official GOGDownloader.
+    </p>
+  </description>
+  <url type="homepage">https://sites.google.com/site/gogdownloader/</url>
+  <url type="bugtracker">https://github.com/Sude-/lgogdownloader/issues</url>
+  <releases>
+    <release date="2018-02-15" version="3.3+git-d017703"/>
+  </releases>
+  <update_contact>magicmyth@magicmyth.com</update_contact>
+</component>
